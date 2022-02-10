@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Create by Spreadst
+
+    File Name:  defaults.xml
+    Author:     xiaoliang
+    Date:       2019-07-10
+    Copyright:  2001-2020 by Spreadtrum Communications, Inc.
+                All rights reserved.
+                This software is supplied under the terms of a license
+                agreement or non-disclosure agreement with Spreadtrum.
+                Passing on and copying of this document, and communication
+                of its contents is not permitted without prior written
+                authorization.
+-->
+<resources>
+    <!-- Location default state is ON for Androud original code, we want to turn off it for no location version. -->
+    <integer name="def_location_mode">0</integer>
+</resources>

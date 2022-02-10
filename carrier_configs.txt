@@ -1,0 +1,4 @@
+FEATURES_cmcc="base cmcc"
+FEATURES_cucc="base cucc"
+FEATURES_ctcc="base ctcc"
+FEATURES_oversea="base oversea"
