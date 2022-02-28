@@ -16,16 +16,93 @@
 
 <resources>
 
-    <string-array translatable="false" name="supported_locales">
+    <string-array translatable="false" name="supported-locales">
         <item>en-US</item> <!-- English (United States) -->
-        <item>zh-CN</item> <!-- Chinese (Simplified Han,China) -->
-        <!--<item>zh-Hans-HK</item>--> <!-- Chinese (Simplified Han,Hong Kong) -->
-        <!--<item>zh-Hans-MO</item>--> <!-- Chinese (Simplified Han,Macau) -->
-        <!--<item>zh-Hans-SG</item>--> <!-- Chinese (Simplified Han,Singapore) -->
-        <item>zh-Hant-HK</item> <!-- Chinese (Traditional Han,Hong Kong) -->
-        <!--<item>zh-Hant-MO</item>--> <!-- Chinese (Traditional Han,Macau) -->
-        <item>zh-Hant-TW</item> <!-- Chinese (Traditional Han,Taiwan) -->
-        <!--<item>zu-ZA</item>--> <!-- Zulu (South Africa) -->
+        <item>af-ZA</item>
+        <item>am-ET</item>
+        <item>ar-EG</item>
+        <item>ar-XB</item>
+        <item>as-IN</item>
+        <item>az-AZ</item>
+        <item>be-BY</item>
+        <item>bg-BG</item>
+        <item>bn-BD</item>
+        <item>bs-BA</item>
+        <item>ca-ES</item>
+        <item>cs-CZ</item>
+        <item>da-DK</item>
+        <item>de-DE</item>
+        <item>el-GR</item>
+        <item>en-AU</item>
+        <item>en-CA</item>
+        <item>en-GB</item>
+        <item>en-IN</item>
+        <item>en-XA</item>
+        <item>es-ES</item>
+        <item>es-US</item>
+        <item>et-EE</item>
+        <item>eu-ES</item>
+        <item>fa-IR</item>
+        <item>fi-FI</item>
+        <item>fr-CA</item>
+        <item>fr-FR</item>
+        <item>gl-ES</item>
+        <item>gu-IN</item>
+        <item>hi-IN</item>
+        <item>hr-HR</item>
+        <item>hu-HU</item>
+        <item>hy-AM</item>
+        <item>in-ID</item>
+        <item>is-IS</item>
+        <item>it-IT</item>
+        <item>iw-IL</item>
+        <item>ja-JP</item>
+        <item>ka-GE</item>
+        <item>kk-KZ</item>
+        <item>km-KH</item>
+        <item>kn-IN</item>
+        <item>ko-KR</item>
+        <item>ky-KG</item>
+        <item>lo-LA</item>
+        <item>lt-LT</item>
+        <item>lv-LV</item>
+        <item>mk-MK</item>
+        <item>ml-IN</item>
+        <item>mn-MN</item>
+        <item>mr-IN</item>
+        <item>ms-MY</item>
+        <item>my-MM</item>
+        <item>nb-NO</item>
+        <item>ne-NP</item>
+        <item>nl-NL</item>
+        <item>or-IN</item>
+        <item>pa-IN</item>
+        <item>pl-PL</item>
+        <item>pt-BR</item>
+        <item>pt-PT</item>
+        <item>ro-RO</item>
+        <item>ru-RU</item>
+        <item>si-LK</item>
+        <item>sk-SK</item>
+        <item>sl-SI</item>
+        <item>sq-AL</item>
+        <item>sr-Latn-RS</item>
+        <item>sr-RS</item>
+        <item>sv-SE</item>
+        <item>sw-TZ</item>
+        <item>ta-IN</item>
+        <item>te-IN</item>
+        <item>th-TH</item>
+        <item>tl-PH</item>
+        <item>tr-TR</item>
+        <item>uk-UA</item>
+        <item>ur-PK</item>
+        <item>uz-UZ</item>
+        <item>vi-VN</item>
+        <item>zh-CN</item>
+        <item>zh-Hant-HK</item>
+        <item>zh-Hant-TW</item>
+        <item>zu-ZA</item>
     </string-array>
 
 </resources>
